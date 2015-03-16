@@ -1,1 +1,2 @@
-Hello worlf!
+Hello world!
+Git, a hot SCM
